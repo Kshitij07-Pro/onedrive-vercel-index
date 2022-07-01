@@ -11,13 +11,13 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/Kousei Arima.jpg',
+  icon: "/icons/Kousei Arima.jpg",
 
   // The name of your website. Present alongside your icon.
-  title: "Lifetime Storage",
+  title: "Kousei Arima",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/Noob Leechers/',
+  baseDirectory: "/Noob Leechers/",
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -50,11 +50,15 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/Kshitij07-Pro/onedrive-vercel-index',
+      link: 'https://github.com/Kshitij07-Pro',
     },
     {
       name: 'Telegram',
       link: 'https://t.me/xitij2049',
+    },
+    {
+      name: 'Google Developers',
+      link: 'https://g.dev/Kshitij-07',
     },
   ],
 
