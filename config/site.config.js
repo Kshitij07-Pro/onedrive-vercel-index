@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://t.me/xitij2049',
     },
     {
-      name: 'code-simple', #square-code
+      name: 'code-simple',
       link: 'https://g.dev/Kshitij-07',
     },
   ],
